@@ -1,0 +1,49 @@
+.header {
+   
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto; 
+    width: 90%; 
+}
+
+.header h1 {
+    color: rgb(9, 9, 9); 
+    margin: 0;          /* Removes extra spacing */
+    font-size: 1.5rem; /* Adjust the font size as needed */
+}
+
+
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 500px; 
+    margin: left auto;   
+    padding: 70px;    
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    background-color: #f9f9f9;
+    
+}
+
+.dropdown{
+    margin: 10px;
+    margin-left: 6.5%;
+    width: 90%;
+    color: #000000;
+    font-size: 100%;
+    padding-right: 200% ;
+    
+    
+
+}
+
+
+
+.footer {
+    background-color: #282c34;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 10px;
+    color: white;
+    text-align: left;
+   
+
+}
